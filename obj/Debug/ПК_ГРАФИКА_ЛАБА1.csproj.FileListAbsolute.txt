@@ -1,0 +1,10 @@
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\bin\Debug\ПК_ГРАФИКА_ЛАБА1.exe.config
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\bin\Debug\ПК_ГРАФИКА_ЛАБА1.exe
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\bin\Debug\ПК_ГРАФИКА_ЛАБА1.pdb
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.Form1.resources
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.Properties.Resources.resources
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.exe
+C:\Users\drago\source\repos\ПК_ГРАФИКА_ЛАБА1\obj\Debug\ПК_ГРАФИКА_ЛАБА1.pdb
